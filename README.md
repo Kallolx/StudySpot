@@ -8,9 +8,9 @@
 
 <div align="center">
   
-  ![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepo?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/yourusername/yourrepo?style=social)
-  ![GitHub watchers](https://img.shields.io/github/watchers/yourusername/yourrepo?style=social)
+  ![GitHub stars](https://img.shields.io/github/stars/kallolx/StudySpot?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/kallolx/StudySpot?style=social)
+  ![GitHub watchers](https://img.shields.io/github/watchers/kallolx/StudySpot?style=social)
   
 </div>
 
