@@ -48,7 +48,7 @@ A brief description of your awesome project goes here. Make it engaging and inte
 
 ## 🌊 Contribution Graph
 
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kallolx/kallolx/blob/output/github-contribution-grid-snake.svg)
 
 ## 📫 Connect With Me
 
@@ -70,5 +70,5 @@ A brief description of your awesome project goes here. Make it engaging and inte
 
 ---
 <div align="center">
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by Kallol(https://github.com/kallolx)
 </div> 
